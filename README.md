@@ -80,6 +80,8 @@ To be added
 14. [unimelb-nlp/wikiann](https://huggingface.co/datasets/unimelb-nlp/wikiann) NER
 15. [TUR2SQL](https://github.com/alibugra/TUR2SQL) Text to SQL query dataset
 16. [dolphin-r1-turkish](https://huggingface.co/datasets/WiroAI/dolphin-r1-turkish) Reasoning dataset
+17. [Holmeister's Collections](https://huggingface.co/collections/Holmeister/turkish-llm-multi-prompt-evaluation-datasets-676994cd18391bb6e813bec3) A collection of 17 datasets for 11 different tasks (Truthfulness, fairness, summarization etc.). For more see the [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010437) 
+
 #### Text & Images
 1. [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)
 2. [ytu-ce-cosmos/Turkish-LLaVA-Pretrain](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Pretrain)
@@ -95,6 +97,7 @@ To be added
 2. [Introducing cosmosGPT: Monolingual Training for Turkish Language Models](https://arxiv.org/pdf/2404.17336)
 3. [TurkishMMLU: Measuring Massive Multitask Language Understanding in Turkish](https://arxiv.org/abs/2407.12402)
 4. [TURSpider: A Turkish Text-to-SQL Dataset and LLM-Based Study](https://ieeexplore.ieee.org/document/10753591)
+5. [How do LLMs perform on Turkish? A multi-faceted multi-prompt evaluation](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010437) Performances of various LLMs in Turkish
 ### Benchmarks
 1. [malhajar/OpenLLMTurkishLeaderboard_v0.2](https://huggingface.co/spaces/malhajar/OpenLLMTurkishLeaderboard_v0.2)
 2. [KUIS-AI/Cetvel](https://huggingface.co/spaces/KUIS-AI/Cetvel)
