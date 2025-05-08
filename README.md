@@ -52,7 +52,7 @@ The purpose of this repo to share and spread the information of Turkish AI model
 10. [Helsinki-NLP group](https://huggingface.co/Helsinki-NLP) Lots of translation models for turkish
 11. [VRLLab/TurkishBERTweet](https://huggingface.co/VRLLab/TurkishBERTweet) Tweet sentiment analysis
 12. [akdeniz27/bert-base-turkish-cased-ner](https://huggingface.co/akdeniz27/bert-base-turkish-cased-ner)
-
+13. [Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0](https://huggingface.co/Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0) Turkish and multilingual embeddings
 
 #### Speech models
 To be added
