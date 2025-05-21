@@ -53,6 +53,7 @@ The purpose of this repo to share and spread the information of Turkish AI model
 11. [VRLLab/TurkishBERTweet](https://huggingface.co/VRLLab/TurkishBERTweet) Tweet sentiment analysis
 12. [akdeniz27/bert-base-turkish-cased-ner](https://huggingface.co/akdeniz27/bert-base-turkish-cased-ner)
 13. [Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0](https://huggingface.co/Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0) Turkish and multilingual embeddings
+14. [artiwise-ai/modernbert-base-tr-uncased](https://huggingface.co/artiwise-ai/modernbert-base-tr-uncased)
 
 #### Speech models
 To be added
@@ -81,6 +82,9 @@ To be added
 15. [TUR2SQL](https://github.com/alibugra/TUR2SQL) Text to SQL query dataset
 16. [dolphin-r1-turkish](https://huggingface.co/datasets/WiroAI/dolphin-r1-turkish) Reasoning dataset
 17. [Holmeister's Collections](https://huggingface.co/collections/Holmeister/turkish-llm-multi-prompt-evaluation-datasets-676994cd18391bb6e813bec3) A collection of 17 datasets for 11 different tasks (Truthfulness, fairness, summarization etc.). For more see the [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010437) 
+18. [CohereLabs/Global-MMLU](https://huggingface.co/datasets/CohereLabs/Global-MMLU) MMLU for multiple languages including Turkish
+19. [emre/ct_tree_of_thought_turkish](https://huggingface.co/datasets/emre/ct_tree_of_thought_turkish)
+Turkish Tree of Thoughts (ToT) dataset 
 
 #### Text & Images
 1. [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)
@@ -104,7 +108,8 @@ To be added
 2. [KUIS-AI/Cetvel](https://huggingface.co/spaces/KUIS-AI/Cetvel)
 3. [kesimeg/Turkish-rewardbench](https://huggingface.co/spaces/kesimeg/Turkish-rewardbench) Reward model comparison
 ### Tutorials and Codes
-To be added
+1. [METU NLP Lab Git repo](https://github.com/metunlp)
+2. [wikipedia ToT data generation notebook](https://colab.research.google.com/drive/1mHOtErnLLoifkm0ySLc3_F9UqRa3SkSV?usp=sharing)
 
 ### Tools and APIs
 1. [Glosbe](https://tr.glosbe.com/)
@@ -115,7 +120,7 @@ To be added
 ### State of AI in Türkiye
 1. [KUIS-AI Youtube channel](https://www.youtube.com/@kuisaicenter)
 2. [TR-AI Youtube channel](https://www.youtube.com/c/T%C3%BCrkiyeYapayZeka%C4%B0nisiyatifi)
-3. [Trendyol Tech Youtube channel](https://www.youtube.com/@TrendyolTech) Has videos related to their AI products
+3. [Trendyol Tech Youtube channel](https://www.youtube.com/@TrendyolTech) Has videos related to their AI products and how they integrate AI
 
 ### Miscellaneous
 1. [Mukayese: Turkish NLP Strikes Back](https://mukayese.tdd.ai/#/)
