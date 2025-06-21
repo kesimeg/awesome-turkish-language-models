@@ -55,6 +55,7 @@ The purpose of this repo to share and spread the information of Turkish AI model
 12. [akdeniz27/bert-base-turkish-cased-ner](https://huggingface.co/akdeniz27/bert-base-turkish-cased-ner)
 13. [Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0](https://huggingface.co/Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0) Turkish and multilingual embeddings
 14. [artiwise-ai/modernbert-base-tr-uncased](https://huggingface.co/artiwise-ai/modernbert-base-tr-uncased)
+15. [ytu-ce-cosmos/turkish-e5-large](https://huggingface.co/ytu-ce-cosmos/turkish-e5-large) Turkish retrieval model
 
 #### Speech models
 To be added
@@ -94,6 +95,8 @@ Turkish Tree of Thoughts (ToT) dataset
 4. [99eren99/LLaVA1.5-Data-Turkish](https://huggingface.co/datasets/99eren99/LLaVA1.5-Data-Turkish)
 5. [TasvirEt](https://www.kaggle.com/datasets/begum302553/tasviret-flickr8k-turkish)
 6. [Cohere For AI](https://huggingface.co/CohereForAI) Has various dataset for VLM benchmarking
+7. [nezahatkorkmaz/turkish-medical-vqa-evaluated](https://huggingface.co/datasets/nezahatkorkmaz/turkish-medical-vqa-evaluated) Medical image question and answer dataset
+8. [nezahatkorkmaz/unsloth-pmc-vqa-tr](https://huggingface.co/datasets/nezahatkorkmaz/unsloth-pmc-vqa-tr) Medical image question answering dataset. Translted from PMC-VQA dataset. Reiquires access to images from original dataset.
 #### Text & Speech
 1. [mozilla-foundation/common_voice_17_0](https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0) This dataset also has older versions v16,v15, etc.
 
@@ -127,7 +130,10 @@ Turkish Tree of Thoughts (ToT) dataset
 1. [Mukayese: Turkish NLP Strikes Back](https://mukayese.tdd.ai/#/)
 2. [Mukayese github repo](https://github.com/alisafaya/mukayese)
 3. [Wikipedia dumps](https://dumps.wikimedia.org/) Can be used as a dataset
-
+4. [Turkish Encoder-only Models List](https://huggingface.co/collections/atasoglu/turkish-encoder-only-models-65e2604fa0a2f649da9477e8) A collection of encoder only turkish models
+5. [Turkish Instruction Datasets List](https://huggingface.co/collections/atasoglu/turkish-instruction-datasets-6601d92fa6d901e554d98979) A collection of turkish instruction datasets
+6. [Turkish Vision-Language Datasets List](https://huggingface.co/collections/atasoglu/turkish-vision-language-datasets-66e7c563750d486e30732dd4) A collection of turkish vision language datasets
+7. [Cosmos App](https://play.google.com/store/apps/details?id=com.cosmos.cosmos&hl=tr-TR) The app of Cosmos AI Research group hosting their cosmos model. (Also has an iOS version)
 ### Contributing
 If you got anything to be added here just make a pull request! Before making a pull request please consider if a model/dataset/etc. has enough quality/uniqueness. Huggingface is crowded with finetuning of LLama and BERT, same applies to dataset. Many datasets have multiple machine translation version. This makes it hard to find good quality sources. We want to keep this list as curated as possible but still be able to cover enough sources.
 
