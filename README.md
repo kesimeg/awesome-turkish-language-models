@@ -121,6 +121,14 @@ Turkish Tree of Thoughts (ToT) dataset
 3. [Zemberek](https://github.com/ahmetaa/zemberek-nlp) Some turkish NLP tools
 4. [3rt4nm4n/turkish-apis](https://github.com/3rt4nm4n/turkish-apis) A list of turkish-apis
 
+### MCPs
+1. [THY-MCP](https://mcp.turkishtechlab.com/)
+2. [borsa-mcp](https://github.com/saidsurucu/borsa-mcp) MCP Server for Istanbul Stock Exchange and Turkish Investment Fund Data 
+3. [yargi-cmp](https://github.com/saidsurucu/yargi-mcp) MCP Server For Turkish Legal Databases 
+4. [mezuat-mcp](https://github.com/saidsurucu/mevzuat-mcp) MCP Server for Searching Turkish Legislation 
+5. [yoktez-mcp](https://github.com/saidsurucu/yoktez-mcp) MCP Server for Turkish Thesis Database 
+6. [yokatlas-mcp](https://github.com/saidsurucu/yokatlas-mcp) MCP Server for YOK Atlas
+
 ### State of AI in Türkiye
 1. [KUIS-AI Youtube channel](https://www.youtube.com/@kuisaicenter)
 2. [TR-AI Youtube channel](https://www.youtube.com/c/T%C3%BCrkiyeYapayZeka%C4%B0nisiyatifi)
