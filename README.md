@@ -18,6 +18,8 @@ The purpose of this repo to share and spread the information of Turkish AI model
 
 * **[Tools and APIs](#tools-and-apis)** 
 
+* **[MCPs](#mcps)** 
+
 * **[State of AI in Türkiye(Projects, products, groups etc.)](#state-of-ai-in-türkiye)** 
 
 * **[Miscellaneous](#miscellaneous)**  
@@ -87,6 +89,8 @@ To be added
 18. [CohereLabs/Global-MMLU](https://huggingface.co/datasets/CohereLabs/Global-MMLU) MMLU for multiple languages including Turkish
 19. [emre/ct_tree_of_thought_turkish](https://huggingface.co/datasets/emre/ct_tree_of_thought_turkish)
 Turkish Tree of Thoughts (ToT) dataset 
+20. [evreny/prompt_injection_tr](https://huggingface.co/datasets/evreny/prompt_injection_tr) Turkish prompts for prompt injection
+
 
 #### Text & Images
 1. [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)
@@ -94,9 +98,10 @@ Turkish Tree of Thoughts (ToT) dataset
 3. [ytu-ce-cosmos/turkce-kitap](https://huggingface.co/datasets/ytu-ce-cosmos/turkce-kitap)
 4. [99eren99/LLaVA1.5-Data-Turkish](https://huggingface.co/datasets/99eren99/LLaVA1.5-Data-Turkish)
 5. [TasvirEt](https://www.kaggle.com/datasets/begum302553/tasviret-flickr8k-turkish)
-6. [Cohere For AI](https://huggingface.co/CohereForAI) Has various dataset for VLM benchmarking
-7. [nezahatkorkmaz/turkish-medical-vqa-evaluated](https://huggingface.co/datasets/nezahatkorkmaz/turkish-medical-vqa-evaluated) Medical image question and answer dataset
-8. [nezahatkorkmaz/unsloth-pmc-vqa-tr](https://huggingface.co/datasets/nezahatkorkmaz/unsloth-pmc-vqa-tr) Medical image question answering dataset. Translted from PMC-VQA dataset. Reiquires access to images from original dataset.
+6. [CohereLabs/m-WildVision](https://huggingface.co/datasets/CohereLabs/m-WildVision)
+7. [CohereLabs/AyaVisionBench](https://huggingface.co/datasets/CohereLabs/AyaVisionBench)
+8. [nezahatkorkmaz/turkish-medical-vqa-evaluated](https://huggingface.co/datasets/nezahatkorkmaz/turkish-medical-vqa-evaluated) Medical image question and answer dataset
+9. [nezahatkorkmaz/unsloth-pmc-vqa-tr](https://huggingface.co/datasets/nezahatkorkmaz/unsloth-pmc-vqa-tr) Medical image question answering dataset. Translted from PMC-VQA dataset. Reiquires access to images from original dataset.
 #### Text & Speech
 1. [mozilla-foundation/common_voice_17_0](https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0) This dataset also has older versions v16,v15, etc.
 
@@ -107,10 +112,13 @@ Turkish Tree of Thoughts (ToT) dataset
 4. [TURSpider: A Turkish Text-to-SQL Dataset and LLM-Based Study](https://ieeexplore.ieee.org/document/10753591)
 5. [How do LLMs perform on Turkish? A multi-faceted multi-prompt evaluation](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010437) Performances of various LLMs in Turkish
 6. [Evaluating the Quality of Benchmark Datasets for Low-Resource Languages: A Case Study on Turkish](https://arxiv.org/abs/2504.09714)
+
 ### Benchmarks
 1. [malhajar/OpenLLMTurkishLeaderboard_v0.2](https://huggingface.co/spaces/malhajar/OpenLLMTurkishLeaderboard_v0.2)
 2. [KUIS-AI/Cetvel](https://huggingface.co/spaces/KUIS-AI/Cetvel)
 3. [kesimeg/Turkish-rewardbench](https://huggingface.co/spaces/kesimeg/Turkish-rewardbench) Reward model comparison
+4. [TurkBench/TurkBench](https://huggingface.co/spaces/TurkBench/TurkBench)
+
 ### Tutorials and Codes
 1. [METU NLP Lab Git repo](https://github.com/metunlp)
 2. [wikipedia ToT data generation notebook](https://colab.research.google.com/drive/1mHOtErnLLoifkm0ySLc3_F9UqRa3SkSV?usp=sharing)
