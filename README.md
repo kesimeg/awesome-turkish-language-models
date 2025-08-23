@@ -38,6 +38,7 @@ The purpose of this repo to share and spread the information of Turkish AI model
 6. [WiroAI/OpenR1-Qwen-7B-Turkish](https://huggingface.co/WiroAI/OpenR1-Qwen-7B-Turkish) Reasoning model
 7. [WiroAI/wiroai-turkish-llm-9b](https://huggingface.co/WiroAI/wiroai-turkish-llm-9b)
 8. [ytu-ce-cosmos/Turkish-Gemma-9b-v0.1](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-9b-v0.1)
+9. [Trendyol/Trendyol-LLM-8B-T1](https://huggingface.co/Trendyol/Trendyol-LLM-8B-T1) Qwen3 finetune, has thinking mode
 
 #### VLMs
 1. [ytu-ce-cosmos/Turkish-LLaVA](https://huggingface.co/ytu-ce-cosmos/Turkish-LLaVA-v0.1)
@@ -90,7 +91,8 @@ To be added
 19. [emre/ct_tree_of_thought_turkish](https://huggingface.co/datasets/emre/ct_tree_of_thought_turkish)
 Turkish Tree of Thoughts (ToT) dataset 
 20. [evreny/prompt_injection_tr](https://huggingface.co/datasets/evreny/prompt_injection_tr) Turkish prompts for prompt injection
-
+21. [HuggingFaceFW/fineweb-2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) Has ~95 million turkish text
+22. [TURSpider](https://github.com/alibugra/TURSpider) Text-to-SQL dataset
 
 #### Text & Images
 1. [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)
@@ -102,6 +104,8 @@ Turkish Tree of Thoughts (ToT) dataset
 7. [CohereLabs/AyaVisionBench](https://huggingface.co/datasets/CohereLabs/AyaVisionBench)
 8. [nezahatkorkmaz/turkish-medical-vqa-evaluated](https://huggingface.co/datasets/nezahatkorkmaz/turkish-medical-vqa-evaluated) Medical image question and answer dataset
 9. [nezahatkorkmaz/unsloth-pmc-vqa-tr](https://huggingface.co/datasets/nezahatkorkmaz/unsloth-pmc-vqa-tr) Medical image question answering dataset. Translted from PMC-VQA dataset. Reiquires access to images from original dataset.
+10. [BosphorusSign22k](https://ogulcanozdemir.github.io/bosphorussign22k/) Sign recognition
+
 #### Text & Speech
 1. [mozilla-foundation/common_voice_17_0](https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0) This dataset also has older versions v16,v15, etc.
 
