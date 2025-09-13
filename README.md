@@ -39,6 +39,7 @@ The purpose of this repo to share and spread the information of Turkish AI model
 7. [WiroAI/wiroai-turkish-llm-9b](https://huggingface.co/WiroAI/wiroai-turkish-llm-9b)
 8. [ytu-ce-cosmos/Turkish-Gemma-9b-v0.1](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-9b-v0.1)
 9. [Trendyol/Trendyol-LLM-8B-T1](https://huggingface.co/Trendyol/Trendyol-LLM-8B-T1) Qwen3 finetune, has thinking mode
+10. [ytu-ce-cosmos/Turkish-Gemma-9b-T1](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-9b-T1)
 
 #### VLMs
 1. [ytu-ce-cosmos/Turkish-LLaVA](https://huggingface.co/ytu-ce-cosmos/Turkish-LLaVA-v0.1)
@@ -94,7 +95,7 @@ Turkish Tree of Thoughts (ToT) dataset
 21. [HuggingFaceFW/fineweb-2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) Has ~95 million turkish text
 22. [TURSpider](https://github.com/alibugra/TURSpider) Text-to-SQL dataset
 
-#### Text & Images
+#### Text & Images/Videos
 1. [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)
 2. [ytu-ce-cosmos/Turkish-LLaVA-Pretrain](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Pretrain)
 3. [ytu-ce-cosmos/turkce-kitap](https://huggingface.co/datasets/ytu-ce-cosmos/turkce-kitap)
@@ -105,6 +106,7 @@ Turkish Tree of Thoughts (ToT) dataset
 8. [nezahatkorkmaz/turkish-medical-vqa-evaluated](https://huggingface.co/datasets/nezahatkorkmaz/turkish-medical-vqa-evaluated) Medical image question and answer dataset
 9. [nezahatkorkmaz/unsloth-pmc-vqa-tr](https://huggingface.co/datasets/nezahatkorkmaz/unsloth-pmc-vqa-tr) Medical image question answering dataset. Translted from PMC-VQA dataset. Reiquires access to images from original dataset.
 10. [BosphorusSign22k](https://ogulcanozdemir.github.io/bosphorussign22k/) Sign recognition
+11. [FinePDFs](https://huggingface.co/datasets/HuggingFaceFW/finepdfs) Has 1.7 million Turkish entries. A PDF dataset that can be great for pretraining, RAG benchmark curation.
 
 #### Text & Speech
 1. [mozilla-foundation/common_voice_17_0](https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0) This dataset also has older versions v16,v15, etc.
