@@ -10,9 +10,11 @@ The purpose of this repo to share and spread the information of Turkish AI model
 
 * **[Datasets](#datasets)** 
 
-* **[Papers](#papers)**  
+* **[Live Benchmarks](#live-benchmarks)**  
 
-* **[Benchmarks](#benchmarks)**  
+* **[Benchmark Datasets](#benchmark-datasets)**  
+
+* **[Papers](#papers)**  
 
 * **[Tutorials and Codes](#tutorials-and-codes)**  
 
@@ -40,6 +42,7 @@ The purpose of this repo to share and spread the information of Turkish AI model
 8. [ytu-ce-cosmos/Turkish-Gemma-9b-v0.1](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-9b-v0.1)
 9. [Trendyol/Trendyol-LLM-8B-T1](https://huggingface.co/Trendyol/Trendyol-LLM-8B-T1) Qwen3 finetune, has thinking mode
 10. [ytu-ce-cosmos/Turkish-Gemma-9b-T1](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-9b-T1)
+11. [vngrs-ai/Kumru-2B](https://huggingface.co/vngrs-ai/Kumru-2B) Kumru model has the architecture of Mistral. Its a model trained from [scratch](https://medium.com/vngrs/kumru-llm-34d1628cfd93) (not a finetune).
 
 #### VLMs
 1. [ytu-ce-cosmos/Turkish-LLaVA](https://huggingface.co/ytu-ce-cosmos/Turkish-LLaVA-v0.1)
@@ -73,27 +76,23 @@ To be added
 #### Text only
 1. [merve/turkish_instructions](https://huggingface.co/datasets/merve/turkish_instructions) Instruction tuning dataset
 2. [BrewInteractive/alpaca-tr](https://huggingface.co/datasets/BrewInteractive/alpaca-tr/viewer/default/train?p=2&views%5B%5D=train) Instruction tuning dataset
-3. [AYueksel/TurkishMMLU](https://huggingface.co/datasets/AYueksel/TurkishMMLU)
-4. [Metin/WikiRAG-TR](https://huggingface.co/datasets/Metin/WikiRAG-TR)
-5. [MBZUAI/Bactrian-X](https://huggingface.co/datasets/MBZUAI/Bactrian-X/viewer/tr?views%5B%5D=tr)
-6. [alibayram/turkish_mmlu](https://huggingface.co/datasets/alibayram/turkish_mmlu)
-7. [Helsinki-NLP group](https://huggingface.co/Helsinki-NLP) Lots of translation models datasets for turkish
-8. [ytu-ce-cosmos/gsm8k_tr](https://huggingface.co/datasets/ytu-ce-cosmos/gsm8k_tr)
-9. [turkish-nlp-suite/turkish-wikiNER](https://huggingface.co/datasets/turkish-nlp-suite/turkish-wikiNER)
-10. [turkish-nlp-suite/InstrucTurca](https://huggingface.co/datasets/turkish-nlp-suite/InstrucTurca)
-11. [WiroAI/dolphin-r1-turkish](https://huggingface.co/datasets/WiroAI/dolphin-r1-turkish) Reasoning dataset
-12. [allenai/c4](https://huggingface.co/datasets/allenai/c4) Web scrape
-13. [HPLT/HPLT2.0_cleaned](https://huggingface.co/datasets/HPLT/HPLT2.0_cleaned/viewer/tur_Latn) Web scrape
-14. [unimelb-nlp/wikiann](https://huggingface.co/datasets/unimelb-nlp/wikiann) NER
-15. [TUR2SQL](https://github.com/alibugra/TUR2SQL) Text to SQL query dataset
-16. [dolphin-r1-turkish](https://huggingface.co/datasets/WiroAI/dolphin-r1-turkish) Reasoning dataset
-17. [Holmeister's Collections](https://huggingface.co/collections/Holmeister/turkish-llm-multi-prompt-evaluation-datasets-676994cd18391bb6e813bec3) A collection of 17 datasets for 11 different tasks (Truthfulness, fairness, summarization etc.). For more see the [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010437) 
-18. [CohereLabs/Global-MMLU](https://huggingface.co/datasets/CohereLabs/Global-MMLU) MMLU for multiple languages including Turkish
-19. [emre/ct_tree_of_thought_turkish](https://huggingface.co/datasets/emre/ct_tree_of_thought_turkish)
+3. [Metin/WikiRAG-TR](https://huggingface.co/datasets/Metin/WikiRAG-TR)
+4. [MBZUAI/Bactrian-X](https://huggingface.co/datasets/MBZUAI/Bactrian-X/viewer/tr?views%5B%5D=tr)
+5. [Helsinki-NLP group](https://huggingface.co/Helsinki-NLP) Lots of translation models datasets for turkish
+6. [turkish-nlp-suite/turkish-wikiNER](https://huggingface.co/datasets/turkish-nlp-suite/turkish-wikiNER)
+7. [turkish-nlp-suite/InstrucTurca](https://huggingface.co/datasets/turkish-nlp-suite/InstrucTurca)
+8. [WiroAI/dolphin-r1-turkish](https://huggingface.co/datasets/WiroAI/dolphin-r1-turkish) Reasoning dataset
+9. [allenai/c4](https://huggingface.co/datasets/allenai/c4) Web scrape
+10. [HPLT/HPLT2.0_cleaned](https://huggingface.co/datasets/HPLT/HPLT2.0_cleaned/viewer/tur_Latn) Web scrape
+11. [unimelb-nlp/wikiann](https://huggingface.co/datasets/unimelb-nlp/wikiann) NER
+12. [TUR2SQL](https://github.com/alibugra/TUR2SQL) Text to SQL query dataset
+13. [dolphin-r1-turkish](https://huggingface.co/datasets/WiroAI/dolphin-r1-turkish) Reasoning dataset
+14. [emre/ct_tree_of_thought_turkish](https://huggingface.co/datasets/emre/ct_tree_of_thought_turkish)
 Turkish Tree of Thoughts (ToT) dataset 
-20. [evreny/prompt_injection_tr](https://huggingface.co/datasets/evreny/prompt_injection_tr) Turkish prompts for prompt injection
-21. [HuggingFaceFW/fineweb-2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) Has ~95 million turkish text
-22. [TURSpider](https://github.com/alibugra/TURSpider) Text-to-SQL dataset
+15. [evreny/prompt_injection_tr](https://huggingface.co/datasets/evreny/prompt_injection_tr) Turkish prompts for prompt injection
+16. [HuggingFaceFW/fineweb-2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) Has ~95 million turkish text
+17. [TURSpider](https://github.com/alibugra/TURSpider) Text-to-SQL dataset
+18. [vngrs-ai/vngrs-web-corpus](https://huggingface.co/datasets/vngrs-ai/vngrs-web-corpus) Pretraining data which is a collection of different datasets crawled from the internet
 
 #### Text & Images/Videos
 1. [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)
@@ -101,15 +100,38 @@ Turkish Tree of Thoughts (ToT) dataset
 3. [ytu-ce-cosmos/turkce-kitap](https://huggingface.co/datasets/ytu-ce-cosmos/turkce-kitap)
 4. [99eren99/LLaVA1.5-Data-Turkish](https://huggingface.co/datasets/99eren99/LLaVA1.5-Data-Turkish)
 5. [TasvirEt](https://www.kaggle.com/datasets/begum302553/tasviret-flickr8k-turkish)
-6. [CohereLabs/m-WildVision](https://huggingface.co/datasets/CohereLabs/m-WildVision)
-7. [CohereLabs/AyaVisionBench](https://huggingface.co/datasets/CohereLabs/AyaVisionBench)
-8. [nezahatkorkmaz/turkish-medical-vqa-evaluated](https://huggingface.co/datasets/nezahatkorkmaz/turkish-medical-vqa-evaluated) Medical image question and answer dataset
-9. [nezahatkorkmaz/unsloth-pmc-vqa-tr](https://huggingface.co/datasets/nezahatkorkmaz/unsloth-pmc-vqa-tr) Medical image question answering dataset. Translted from PMC-VQA dataset. Reiquires access to images from original dataset.
-10. [BosphorusSign22k](https://ogulcanozdemir.github.io/bosphorussign22k/) Sign recognition
-11. [FinePDFs](https://huggingface.co/datasets/HuggingFaceFW/finepdfs) Has 1.7 million Turkish entries. A PDF dataset that can be great for pretraining, RAG benchmark curation.
+6. [nezahatkorkmaz/turkish-medical-vqa-evaluated](https://huggingface.co/datasets/nezahatkorkmaz/turkish-medical-vqa-evaluated) Medical image question and answer dataset
+7. [nezahatkorkmaz/unsloth-pmc-vqa-tr](https://huggingface.co/datasets/nezahatkorkmaz/unsloth-pmc-vqa-tr) Medical image question answering dataset. Translted from PMC-VQA dataset. Reiquires access to images from original dataset.
+8. [BosphorusSign22k](https://ogulcanozdemir.github.io/bosphorussign22k/) Sign recognition
+9. [FinePDFs](https://huggingface.co/datasets/HuggingFaceFW/finepdfs) Has 1.7 million Turkish entries. A PDF dataset that can be great for pretraining, RAG benchmark curation.
 
 #### Text & Speech
 1. [mozilla-foundation/common_voice_17_0](https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0) This dataset also has older versions v16,v15, etc.
+
+
+### Live Benchmarks
+1. [malhajar/OpenLLMTurkishLeaderboard_v0.2](https://huggingface.co/spaces/malhajar/OpenLLMTurkishLeaderboard_v0.2)
+2. [KUIS-AI/Cetvel](https://huggingface.co/spaces/KUIS-AI/Cetvel)
+3. [kesimeg/Turkish-rewardbench](https://huggingface.co/spaces/kesimeg/Turkish-rewardbench) Reward model comparison
+4. [TurkBench/TurkBench](https://huggingface.co/spaces/TurkBench/TurkBench)
+5. [newmindai/Mezura](https://huggingface.co/spaces/newmindai/Mezura) Has RAG, Human evaluation (ELO score) and other benchmark scores. It also includes benchmarks in  malhajar/OpenLLMTurkishLeaderboard_v0.2 
+
+
+### Benchmark Datasets
+
+#### Text only
+1. [AYueksel/TurkishMMLU](https://huggingface.co/datasets/AYueksel/TurkishMMLU)
+2. [alibayram/turkish_mmlu](https://huggingface.co/datasets/alibayram/turkish_mmlu)
+3. [ytu-ce-cosmos/gsm8k_tr](https://huggingface.co/datasets/ytu-ce-cosmos/gsm8k_tr)
+4. [Holmeister's Collections](https://huggingface.co/collections/Holmeister/turkish-llm-multi-prompt-evaluation-datasets-676994cd18391bb6e813bec3) A collection of 17 datasets for 11 different tasks (Truthfulness, fairness, summarization etc.). For more see the [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010437) 
+5. [CohereLabs/Global-MMLU](https://huggingface.co/datasets/CohereLabs/Global-MMLU) MMLU for multiple languages including Turkish
+6. [mrlbenchmarks/global-piqa-nonparallel](https://huggingface.co/datasets/mrlbenchmarks/global-piqa-nonparallel) Cultural commonsense benchmark.
+7. [ytu-ce-cosmos/gpqa-extended_tr](https://huggingface.co/datasets/ytu-ce-cosmos/gpqa-extended_tr) Graduate level science questions.
+
+#### Visual and Text
+1. [CohereLabs/m-WildVision](https://huggingface.co/datasets/CohereLabs/m-WildVision)
+2. [CohereLabs/AyaVisionBench](https://huggingface.co/datasets/CohereLabs/AyaVisionBench)
+3. [kesimeg/MMStar_tr](https://huggingface.co/datasets/kesimeg/MMStar_tr)
 
 ### Papers
 1. [Cosmos-LLaVA: Chatting with the Visual](https://arxiv.org/pdf/2412.02760)
@@ -119,15 +141,10 @@ Turkish Tree of Thoughts (ToT) dataset
 5. [How do LLMs perform on Turkish? A multi-faceted multi-prompt evaluation](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010437) Performances of various LLMs in Turkish
 6. [Evaluating the Quality of Benchmark Datasets for Low-Resource Languages: A Case Study on Turkish](https://arxiv.org/abs/2504.09714)
 
-### Benchmarks
-1. [malhajar/OpenLLMTurkishLeaderboard_v0.2](https://huggingface.co/spaces/malhajar/OpenLLMTurkishLeaderboard_v0.2)
-2. [KUIS-AI/Cetvel](https://huggingface.co/spaces/KUIS-AI/Cetvel)
-3. [kesimeg/Turkish-rewardbench](https://huggingface.co/spaces/kesimeg/Turkish-rewardbench) Reward model comparison
-4. [TurkBench/TurkBench](https://huggingface.co/spaces/TurkBench/TurkBench)
-
 ### Tutorials and Codes
 1. [METU NLP Lab Git repo](https://github.com/metunlp)
 2. [wikipedia ToT data generation notebook](https://colab.research.google.com/drive/1mHOtErnLLoifkm0ySLc3_F9UqRa3SkSV?usp=sharing)
+
 
 ### Tools and APIs
 1. [Glosbe](https://tr.glosbe.com/)
@@ -156,6 +173,8 @@ Turkish Tree of Thoughts (ToT) dataset
 5. [Turkish Instruction Datasets List](https://huggingface.co/collections/atasoglu/turkish-instruction-datasets-6601d92fa6d901e554d98979) A collection of turkish instruction datasets
 6. [Turkish Vision-Language Datasets List](https://huggingface.co/collections/atasoglu/turkish-vision-language-datasets-66e7c563750d486e30732dd4) A collection of turkish vision language datasets
 7. [Cosmos App](https://play.google.com/store/apps/details?id=com.cosmos.cosmos&hl=tr-TR) The app of Cosmos AI Research group hosting their cosmos model. (Also has an iOS version)
+8. [ITU NLP Research Tools and Resources](https://ddi.itu.edu.tr/en/toolsandresources)
+
 ### Contributing
 If you got anything to be added here just make a pull request! Before making a pull request please consider if a model/dataset/etc. has enough quality/uniqueness. Huggingface is crowded with finetuning of LLama and BERT, same applies to dataset. Many datasets have multiple machine translation version. This makes it hard to find good quality sources. We want to keep this list as curated as possible but still be able to cover enough sources.
 
