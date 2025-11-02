@@ -10,7 +10,7 @@ The purpose of this repo to share and spread the information of Turkish AI model
 
 * **[Datasets](#datasets)** 
 
-* **[Live Benchmarks](#live-benchmarks)**  
+* **[Live Leaderboards](#live-leaderboards)**  
 
 * **[Benchmark Datasets](#benchmark-datasets)**  
 
@@ -109,7 +109,7 @@ Turkish Tree of Thoughts (ToT) dataset
 1. [mozilla-foundation/common_voice_17_0](https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0) This dataset also has older versions v16,v15, etc.
 
 
-### Live Benchmarks
+### Live Leaderboards
 1. [malhajar/OpenLLMTurkishLeaderboard_v0.2](https://huggingface.co/spaces/malhajar/OpenLLMTurkishLeaderboard_v0.2)
 2. [KUIS-AI/Cetvel](https://huggingface.co/spaces/KUIS-AI/Cetvel)
 3. [kesimeg/Turkish-rewardbench](https://huggingface.co/spaces/kesimeg/Turkish-rewardbench) Reward model comparison
