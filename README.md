@@ -115,7 +115,7 @@ Turkish Tree of Thoughts (ToT) dataset
 3. [kesimeg/Turkish-rewardbench](https://huggingface.co/spaces/kesimeg/Turkish-rewardbench) Reward model comparison
 4. [TurkBench/TurkBench](https://huggingface.co/spaces/TurkBench/TurkBench)
 5. [newmindai/Mezura](https://huggingface.co/spaces/newmindai/Mezura) Has RAG, Human evaluation (ELO score) and other benchmark scores. It also includes benchmarks in  malhajar/OpenLLMTurkishLeaderboard_v0.2 
-
+6. [newmindai/Mizan](https://huggingface.co/spaces/newmindai/Mizan) Embedding model leaderboard. Compares abilities of embedding models on tasks such as retrieval, clustering etc.
 
 ### Benchmark Datasets
 
