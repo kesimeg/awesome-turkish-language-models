@@ -93,6 +93,7 @@ Turkish Tree of Thoughts (ToT) dataset
 16. [HuggingFaceFW/fineweb-2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) Has ~95 million turkish text
 17. [TURSpider](https://github.com/alibugra/TURSpider) Text-to-SQL dataset
 18. [vngrs-ai/vngrs-web-corpus](https://huggingface.co/datasets/vngrs-ai/vngrs-web-corpus) Pretraining data which is a collection of different datasets crawled from the internet
+19. [HuggingFaceFW/finetranslations](https://huggingface.co/datasets/HuggingFaceFW/finetranslations) Has 58 Million Turkish-English text pairs for translation. Translations were generated with Gemma3-27B (From original Turkish dataset to English)
 
 #### Text & Images/Videos
 1. [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)
@@ -104,6 +105,7 @@ Turkish Tree of Thoughts (ToT) dataset
 7. [nezahatkorkmaz/unsloth-pmc-vqa-tr](https://huggingface.co/datasets/nezahatkorkmaz/unsloth-pmc-vqa-tr) Medical image question answering dataset. Translted from PMC-VQA dataset. Reiquires access to images from original dataset.
 8. [BosphorusSign22k](https://ogulcanozdemir.github.io/bosphorussign22k/) Sign recognition
 9. [FinePDFs](https://huggingface.co/datasets/HuggingFaceFW/finepdfs) Has 1.7 million Turkish entries. A PDF dataset that can be great for pretraining, RAG benchmark curation.
+10. [ituperceptron/image-captioning-turkish](https://huggingface.co/datasets/ituperceptron/image-captioning-turkish) Image captioning dataset. 200k long, 100k short captions
 
 #### Text & Speech
 1. [mozilla-foundation/common_voice_17_0](https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0) This dataset also has older versions v16,v15, etc.
@@ -127,6 +129,7 @@ Turkish Tree of Thoughts (ToT) dataset
 5. [CohereLabs/Global-MMLU](https://huggingface.co/datasets/CohereLabs/Global-MMLU) MMLU for multiple languages including Turkish
 6. [mrlbenchmarks/global-piqa-nonparallel](https://huggingface.co/datasets/mrlbenchmarks/global-piqa-nonparallel) Cultural commonsense benchmark.
 7. [ytu-ce-cosmos/gpqa-extended_tr](https://huggingface.co/datasets/ytu-ce-cosmos/gpqa-extended_tr) Graduate level science questions.
+8. [CohereLabsCommunity/multilingual-reward-bench](https://huggingface.co/datasets/CohereLabsCommunity/multilingual-reward-bench) Reward benchmark (preference prediction)
 
 #### Visual and Text
 1. [CohereLabs/m-WildVision](https://huggingface.co/datasets/CohereLabs/m-WildVision)
