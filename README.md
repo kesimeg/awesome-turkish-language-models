@@ -94,6 +94,7 @@ Turkish Tree of Thoughts (ToT) dataset
 17. [TURSpider](https://github.com/alibugra/TURSpider) Text-to-SQL dataset
 18. [vngrs-ai/vngrs-web-corpus](https://huggingface.co/datasets/vngrs-ai/vngrs-web-corpus) Pretraining data which is a collection of different datasets crawled from the internet
 19. [HuggingFaceFW/finetranslations](https://huggingface.co/datasets/HuggingFaceFW/finetranslations) Has 58 Million Turkish-English text pairs for translation. Translations were generated with Gemma3-27B (From original Turkish dataset to English)
+20. [ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0](https://huggingface.co/datasets/ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0) Pretraining data which is a collection of different datasets crawled from the internet
 
 #### Text & Images/Videos
 1. [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)
@@ -135,6 +136,7 @@ Turkish Tree of Thoughts (ToT) dataset
 1. [CohereLabs/m-WildVision](https://huggingface.co/datasets/CohereLabs/m-WildVision)
 2. [CohereLabs/AyaVisionBench](https://huggingface.co/datasets/CohereLabs/AyaVisionBench)
 3. [kesimeg/MMStar_tr](https://huggingface.co/datasets/kesimeg/MMStar_tr)
+4. [metu-yks/yksbench](https://huggingface.co/datasets/metu-yks/yksbench) A visual benchmark based on university entrance exam. Questions include  visuals related to mathematics, geometry, physics, chemistry, biology, and geography
 
 ### Papers
 1. [Cosmos-LLaVA: Chatting with the Visual](https://arxiv.org/pdf/2412.02760)
@@ -143,6 +145,8 @@ Turkish Tree of Thoughts (ToT) dataset
 4. [TURSpider: A Turkish Text-to-SQL Dataset and LLM-Based Study](https://ieeexplore.ieee.org/document/10753591)
 5. [How do LLMs perform on Turkish? A multi-faceted multi-prompt evaluation](https://www.sciencedirect.com/science/article/abs/pii/S0957417425010437) Performances of various LLMs in Turkish
 6. [Evaluating the Quality of Benchmark Datasets for Low-Resource Languages: A Case Study on Turkish](https://arxiv.org/abs/2504.09714)
+7. [YKSBench: Stress-Testing Multimodal Models with Exam-Style Questions](https://openreview.net/pdf?id=qgAjoo3cJE) Paper of YKSBench benchmark.
+8. [TurkBench: A Benchmark for Evaluating Turkish Large Language Models](https://www.arxiv.org/pdf/2601.07020) Paper of TurkBench benchmark
 
 ### Tutorials and Codes
 1. [METU NLP Lab Git repo](https://github.com/metunlp)
