@@ -1,4 +1,5 @@
 # awesome-turkish-language-models [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![Awesome turkish language models image](https://github.com/user-attachments/assets/12b48069-b177-4278-b225-f29b503f60b0)
 A curated list of Turkish AI models, datasets, papers
 
 The purpose of this repo to share and spread the information of Turkish AI models, datasets and papers. The amount of these Turkish resources are low and spread across the web. This repo aims to bring a curated selection of these resources together. This is not a list of all Turkish NLP/LLM models or datasets but a selection. So not all BERT or LLaMA based models are gonna make it here. The same applies to low quality Google translate translations of datasets. We aim each entry to have some kind of unique element to its own. This can be model performance, uniqueness in the task, highlighting the groups/companies (not everyone share their stuff so why not appreciate it!) etc. If you want to add anything you are welcomed :smirk: , please check out the contributing section.
