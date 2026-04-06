@@ -44,6 +44,8 @@ The purpose of this repo to share and spread the information of Turkish AI model
 9. [Trendyol/Trendyol-LLM-8B-T1](https://huggingface.co/Trendyol/Trendyol-LLM-8B-T1) Qwen3 finetune, has thinking mode
 10. [ytu-ce-cosmos/Turkish-Gemma-9b-T1](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-9b-T1)
 11. [vngrs-ai/Kumru-2B](https://huggingface.co/vngrs-ai/Kumru-2B) Kumru model has the architecture of Mistral. Its a model trained from [scratch](https://medium.com/vngrs/kumru-llm-34d1628cfd93) (not a finetune).
+12. [Trendyol/Trendyol-LLM-Asure-12B](https://huggingface.co/Trendyol/Trendyol-LLM-Asure-12B) Mutimodal model
+13. [ytu-ce-cosmos/Turkish-Gemma-4b-T1-Scout](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-4b-T1-Scout) Trained fpr reasoning and web-search tool calling
 
 #### VLMs
 1. [ytu-ce-cosmos/Turkish-LLaVA](https://huggingface.co/ytu-ce-cosmos/Turkish-LLaVA-v0.1)
@@ -90,12 +92,12 @@ To be added
 13. [dolphin-r1-turkish](https://huggingface.co/datasets/WiroAI/dolphin-r1-turkish) Reasoning dataset
 14. [emre/ct_tree_of_thought_turkish](https://huggingface.co/datasets/emre/ct_tree_of_thought_turkish)
 Turkish Tree of Thoughts (ToT) dataset 
-15. [evreny/prompt_injection_tr](https://huggingface.co/datasets/evreny/prompt_injection_tr) Turkish prompts for prompt injection
-16. [HuggingFaceFW/fineweb-2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) Has ~95 million turkish text
-17. [TURSpider](https://github.com/alibugra/TURSpider) Text-to-SQL dataset
-18. [vngrs-ai/vngrs-web-corpus](https://huggingface.co/datasets/vngrs-ai/vngrs-web-corpus) Pretraining data which is a collection of different datasets crawled from the internet
-19. [HuggingFaceFW/finetranslations](https://huggingface.co/datasets/HuggingFaceFW/finetranslations) Has 58 Million Turkish-English text pairs for translation. Translations were generated with Gemma3-27B (From original Turkish dataset to English)
-20. [ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0](https://huggingface.co/datasets/ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0) Pretraining data which is a collection of different datasets crawled from the internet
+15. [HuggingFaceFW/fineweb-2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) Has ~95 million turkish text
+16. [TURSpider](https://github.com/alibugra/TURSpider) Text-to-SQL dataset
+17. [vngrs-ai/vngrs-web-corpus](https://huggingface.co/datasets/vngrs-ai/vngrs-web-corpus) Pretraining data which is a collection of different datasets crawled from the internet
+18. [HuggingFaceFW/finetranslations](https://huggingface.co/datasets/HuggingFaceFW/finetranslations) Has 58 Million Turkish-English text pairs for translation. Translations were generated with Gemma3-27B (From original Turkish dataset to English)
+19. [ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0](https://huggingface.co/datasets/ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0) Pretraining data which is a collection of different datasets crawled from the internet
+20. [alibayram/diyalog-dataset](https://huggingface.co/datasets/alibayram/diyalog-dataset) Multi turn conversation data
 
 #### Text & Images/Videos
 1. [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)
@@ -132,12 +134,15 @@ Turkish Tree of Thoughts (ToT) dataset
 6. [mrlbenchmarks/global-piqa-nonparallel](https://huggingface.co/datasets/mrlbenchmarks/global-piqa-nonparallel) Cultural commonsense benchmark.
 7. [ytu-ce-cosmos/gpqa-extended_tr](https://huggingface.co/datasets/ytu-ce-cosmos/gpqa-extended_tr) Graduate level science questions.
 8. [CohereLabsCommunity/multilingual-reward-bench](https://huggingface.co/datasets/CohereLabsCommunity/multilingual-reward-bench) Reward benchmark (preference prediction)
+9. [boun-tabilab's Tabilab Collection](https://huggingface.co/collections/boun-tabilab/tabibench) A collection of benchmarks for classical NLP tasks (NER, summarization, classification, etc.)
 
 #### Visual and Text
 1. [CohereLabs/m-WildVision](https://huggingface.co/datasets/CohereLabs/m-WildVision)
 2. [CohereLabs/AyaVisionBench](https://huggingface.co/datasets/CohereLabs/AyaVisionBench)
 3. [kesimeg/MMStar_tr](https://huggingface.co/datasets/kesimeg/MMStar_tr)
 4. [metu-yks/yksbench](https://huggingface.co/datasets/metu-yks/yksbench) A visual benchmark based on university entrance exam. Questions include  visuals related to mathematics, geometry, physics, chemistry, biology, and geography
+5. [ytu-ce-cosmos/tubitak-science-olympiad-tr](https://huggingface.co/datasets/ytu-ce-cosmos/tubitak-science-olympiad-tr) A visual benchmar based on TUBITAK Science Olympiad questions. Images are screenshots of questions. 
+
 
 ### Papers
 1. [Cosmos-LLaVA: Chatting with the Visual](https://arxiv.org/pdf/2412.02760)
