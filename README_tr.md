@@ -133,6 +133,7 @@ Eklenecek
 7. [ytu-ce-cosmos/gpqa-extended_tr](https://huggingface.co/datasets/ytu-ce-cosmos/gpqa-extended_tr) Lisansüstü seviye bilim soruları
 8. [CohereLabsCommunity/multilingual-reward-bench](https://huggingface.co/datasets/CohereLabsCommunity/multilingual-reward-bench) Reward kıyaslama veriseti (terchih/beğeni tahmini)
 9. [boun-tabilab's Tabilab Collection](https://huggingface.co/collections/boun-tabilab/tabibench) Klasik NLP problemleri için oluşturulmuş bir koleksiyon (NER, özetleme, sınıflandırma, etc.)
+10. [AIM-Intelligence/XL-SafetyBench](https://huggingface.co/datasets/AIM-Intelligence/XL-SafetyBench) Jailbreak ve kültürel hassasiyeti ölçen kıyaslama veri seti
 
 #### Visual and Text
 1. [CohereLabs/m-WildVision](https://huggingface.co/datasets/CohereLabs/m-WildVision)
