@@ -46,6 +46,7 @@ The purpose of this repo to share and spread the information of Turkish AI model
 11. [vngrs-ai/Kumru-2B](https://huggingface.co/vngrs-ai/Kumru-2B) Kumru model has the architecture of Mistral. Its a model trained from [scratch](https://medium.com/vngrs/kumru-llm-34d1628cfd93) (not a finetune).
 12. [Trendyol/Trendyol-LLM-Asure-12B](https://huggingface.co/Trendyol/Trendyol-LLM-Asure-12B) Mutimodal model
 13. [ytu-ce-cosmos/Turkish-Gemma-4b-T1-Scout](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-4b-T1-Scout) Trained fpr reasoning and web-search tool calling
+14. [esokullu/gemma4-turkish-26b-a4b-pruned-gguf](https://huggingface.co/esokullu/gemma4-turkish-26b-a4b-pruned-gguf) Pruned Gemma-based Turkish model (GGUF)
 
 #### VLMs
 1. [ytu-ce-cosmos/Turkish-LLaVA](https://huggingface.co/ytu-ce-cosmos/Turkish-LLaVA-v0.1)
@@ -98,6 +99,7 @@ Turkish Tree of Thoughts (ToT) dataset
 18. [HuggingFaceFW/finetranslations](https://huggingface.co/datasets/HuggingFaceFW/finetranslations) Has 58 Million Turkish-English text pairs for translation. Translations were generated with Gemma3-27B (From original Turkish dataset to English)
 19. [ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0](https://huggingface.co/datasets/ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0) Pretraining data which is a collection of different datasets crawled from the internet
 20. [alibayram/diyalog-dataset](https://huggingface.co/datasets/alibayram/diyalog-dataset) Multi turn conversation data
+21. [esokullu/alpaca-turkish](https://huggingface.co/datasets/esokullu/alpaca-turkish) Turkish translation of Stanford Alpaca; the first Turkish Alpaca instruction tuning dataset
 
 #### Text & Images/Videos
 1. [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)
@@ -165,6 +167,7 @@ Turkish Tree of Thoughts (ToT) dataset
 2. [Wiktionary](https://tr.wiktionary.org/wiki/Vikis%C3%B6zl%C3%BCk:Anasayfa)
 3. [Zemberek](https://github.com/ahmetaa/zemberek-nlp) Some turkish NLP tools
 4. [3rt4nm4n/turkish-apis](https://github.com/3rt4nm4n/turkish-apis) A list of turkish-apis
+5. [esokullu/webbrain](https://github.com/esokullu/webbrain) Open-source Claude Chrome alternative; available in Turkish
 
 ### MCPs
 1. [THY-MCP](https://mcp.turkishtechlab.com/)
