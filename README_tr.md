@@ -45,6 +45,7 @@ Bu reponun amacı, Türkçe yapay zeka modelleri, veri setleri ve makaleler hakk
 11. [vngrs-ai/Kumru-2B](https://huggingface.co/vngrs-ai/Kumru-2B) Kumru modeli Mistral mimarisine sahip. [Sıfırdan](https://medium.com/vngrs/kumru-llm-34d1628cfd93) (ince ayar yapılmış bir modeli değil) eğitilmiş bir model.
 12. [Trendyol/Trendyol-LLM-Asure-12B](https://huggingface.co/Trendyol/Trendyol-LLM-Asure-12B) Çok kipli model
 13. [ytu-ce-cosmos/Turkish-Gemma-4b-T1-Scout](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-4b-T1-Scout) Akıl yürütme, internet aramaları için eğitilmiş
+14. [esokullu/gemma4-turkish-26b-a4b-pruned-gguf](https://huggingface.co/esokullu/gemma4-turkish-26b-a4b-pruned-gguf) Budanmış (pruned) Gemma tabanlı Türkçe model (GGUF)
 
 #### VLMs
 1. [ytu-ce-cosmos/Turkish-LLaVA](https://huggingface.co/ytu-ce-cosmos/Turkish-LLaVA-v0.1)
@@ -96,6 +97,7 @@ Eklenecek
 18. [HuggingFaceFW/finetranslations](https://huggingface.co/datasets/HuggingFaceFW/finetranslations) Çeviri için 58 milyon Türkçe-İngilizce metin bulunmaktadır. Çeviriler, Gemma3-27B kullanılarak oluşturulmuş (orijinal Türkçe veri kümesinden İngilizceye çevrilmiş)
 19. [ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0](https://huggingface.co/datasets/ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0) İnternetten toplanan farklı veri kümelerinin bir araya getirilmesiyle oluşturulan pretraining verileri
 20. [alibayram/diyalog-dataset](https://huggingface.co/datasets/alibayram/diyalog-dataset) Multi turn konuşma veri seti
+21. [esokullu/alpaca-turkish](https://huggingface.co/datasets/esokullu/alpaca-turkish) Stanford Alpaca'nın Türkçe çevirisi; Türkiye'nin ilk Alpaca instruction tuning veriseti
 
 #### Metin & Görsel/Videolar
 1. [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)
@@ -163,6 +165,7 @@ Eklenecek
 2. [Wiktionary](https://tr.wiktionary.org/wiki/Vikis%C3%B6zl%C3%BCk:Anasayfa)
 3. [Zemberek](https://github.com/ahmetaa/zemberek-nlp) Türkçe doğal dil işleme araçları
 4. [3rt4nm4n/turkish-apis](https://github.com/3rt4nm4n/turkish-apis) Türkçe APIların listesi
+5. [esokullu/webbrain](https://github.com/esokullu/webbrain) Açık kaynaklı Claude Chrome alternatifi; Türkçe dil desteği var
 
 ### MCPler
 1. [THY-MCP](https://mcp.turkishtechlab.com/)
