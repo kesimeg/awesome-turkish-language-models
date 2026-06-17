@@ -63,9 +63,13 @@ The purpose of this repo to share and spread the information of Turkish AI model
 10. [Helsinki-NLP group](https://huggingface.co/Helsinki-NLP) Lots of translation models for turkish
 11. [VRLLab/TurkishBERTweet](https://huggingface.co/VRLLab/TurkishBERTweet) Tweet sentiment analysis
 12. [akdeniz27/bert-base-turkish-cased-ner](https://huggingface.co/akdeniz27/bert-base-turkish-cased-ner)
-13. [Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0](https://huggingface.co/Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0) Turkish and multilingual embeddings
-14. [artiwise-ai/modernbert-base-tr-uncased](https://huggingface.co/artiwise-ai/modernbert-base-tr-uncased)
-15. [ytu-ce-cosmos/turkish-e5-large](https://huggingface.co/ytu-ce-cosmos/turkish-e5-large) Turkish retrieval model
+13. [artiwise-ai/modernbert-base-tr-uncased](https://huggingface.co/artiwise-ai/modernbert-base-tr-uncased)
+
+### Embeddings (Retrieval / Semantic Search)
+1. [ytu-ce-cosmos/turkish-e5-large](https://huggingface.co/ytu-ce-cosmos/turkish-e5-large) – Türkçe retrieval modeli
+2. [Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0](https://huggingface.co/Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0) Turkish and multilingual embeddings
+3. [nezahatkorkmaz/turkce-embedding-bge-m3](https://huggingface.co/nezahatkorkmaz/turkce-embedding-bge-m3) – Genel Türkçe embedding
+4. [nezahatkorkmaz/turkish-mevzuat-bert](https://huggingface.co/nezahatkorkmaz/turkish-mevzuat-bert) – Türkçe hukuki metinler için SentenceTransformer
 
 #### Speech models
 To be added
