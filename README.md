@@ -68,7 +68,7 @@ The purpose of this repo to share and spread the information of Turkish AI model
 15. [ytu-ce-cosmos/turkish-e5-large](https://huggingface.co/ytu-ce-cosmos/turkish-e5-large) Turkish retrieval model
 
 #### Speech models
-To be added
+1. [Trendyol/Trendyol-TTS](https://huggingface.co/Trendyol/Trendyol-TTS) Turkish Text-to-Speech model
 
 #### Multi-modal models
 1. [kesimeg/lora-turkish-clip](https://huggingface.co/kesimeg/lora-turkish-clip) CLIP model finetuned on turkish dataset
@@ -98,6 +98,9 @@ Turkish Tree of Thoughts (ToT) dataset
 18. [HuggingFaceFW/finetranslations](https://huggingface.co/datasets/HuggingFaceFW/finetranslations) Has 58 Million Turkish-English text pairs for translation. Translations were generated with Gemma3-27B (From original Turkish dataset to English)
 19. [ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0](https://huggingface.co/datasets/ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0) Pretraining data which is a collection of different datasets crawled from the internet
 20. [alibayram/diyalog-dataset](https://huggingface.co/datasets/alibayram/diyalog-dataset) Multi turn conversation data
+21. [BTX24/turkish-privacy-pii-ner](https://huggingface.co/datasets/BTX24/turkish-privacy-pii-ner) Synthetic PII NER dataset
+22. [Tuguberk/turkish-hermes-function-calling](https://huggingface.co/datasets/Tuguberk/turkish-hermes-function-calling) Turkish translation of Hermes function calling dataset
+23. [OnerAYTAS/Turkish_prompt_injection_jailbreak_dataset]( https://huggingface.co/datasets/OnerAYTAS/Turkish_prompt_injection_jailbreak_dataset) Turkish jailbreak categorization dataset
 
 #### Text & Images/Videos
 1. [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)

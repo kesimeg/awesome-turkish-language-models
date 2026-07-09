@@ -67,7 +67,7 @@ Bu reponun amacı, Türkçe yapay zeka modelleri, veri setleri ve makaleler hakk
 15. [ytu-ce-cosmos/turkish-e5-large](https://huggingface.co/ytu-ce-cosmos/turkish-e5-large) Türkçe retrieval modeli
 
 #### Ses modelleri
-Eklenecek
+1. [Trendyol/Trendyol-TTS](https://huggingface.co/Trendyol/Trendyol-TTS) Türkçe metinden ses üreten model
 
 #### Çok-kipli modeller
 1. [kesimeg/lora-turkish-clip](https://huggingface.co/kesimeg/lora-turkish-clip) Türkçe veri ile ince ayar yapılmış CLIP modeli
@@ -96,6 +96,9 @@ Eklenecek
 18. [HuggingFaceFW/finetranslations](https://huggingface.co/datasets/HuggingFaceFW/finetranslations) Çeviri için 58 milyon Türkçe-İngilizce metin bulunmaktadır. Çeviriler, Gemma3-27B kullanılarak oluşturulmuş (orijinal Türkçe veri kümesinden İngilizceye çevrilmiş)
 19. [ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0](https://huggingface.co/datasets/ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0) İnternetten toplanan farklı veri kümelerinin bir araya getirilmesiyle oluşturulan pretraining verileri
 20. [alibayram/diyalog-dataset](https://huggingface.co/datasets/alibayram/diyalog-dataset) Multi turn konuşma veri seti
+21. [BTX24/turkish-privacy-pii-ner](https://huggingface.co/datasets/BTX24/turkish-privacy-pii-ner) Sentetik kişisel veriler için  varlık tanıma veri seti
+22. [Tuguberk/turkish-hermes-function-calling](https://huggingface.co/datasets/Tuguberk/turkish-hermes-function-calling) Hermes function calling verisetining Türkçe çevirisi
+23. [OnerAYTAS/Turkish_prompt_injection_jailbreak_dataset]( https://huggingface.co/datasets/OnerAYTAS/Turkish_prompt_injection_jailbreak_dataset) Türkçe jailbreak kategorizasyon veriseti
 
 #### Metin & Görsel/Videolar
 1. [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)
