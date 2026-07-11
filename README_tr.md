@@ -94,7 +94,7 @@ Bu reponun amacı, Türkçe yapay zeka modelleri, veri setleri ve makaleler hakk
 16. [TURSpider](https://github.com/alibugra/TURSpider) Metinden SQL sorgulamaya çeviri veriseti
 17. [vngrs-ai/vngrs-web-corpus](https://huggingface.co/datasets/vngrs-ai/vngrs-web-corpus) İnternetten toplanmış farklı farklı verisetlerinden oluşturulmuş bir pretraining veriseti
 18. [HuggingFaceFW/finetranslations](https://huggingface.co/datasets/HuggingFaceFW/finetranslations) Çeviri için 58 milyon Türkçe-İngilizce metin bulunmaktadır. Çeviriler, Gemma3-27B kullanılarak oluşturulmuş (orijinal Türkçe veri kümesinden İngilizceye çevrilmiş)
-19. [ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0](https://huggingface.co/datasets/ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0) İnternetten toplanan farklı veri kümelerinin bir araya getirilmesiyle oluşturulan pretraining verileri
+19. [ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0](https://huggingface.co/datasets/ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0) İnternetten toplanan pretraining verileri
 20. [alibayram/diyalog-dataset](https://huggingface.co/datasets/alibayram/diyalog-dataset) Multi turn konuşma veri seti
 21. [BTX24/turkish-privacy-pii-ner](https://huggingface.co/datasets/BTX24/turkish-privacy-pii-ner) Sentetik kişisel veriler için  varlık tanıma veri seti
 22. [Tuguberk/turkish-hermes-function-calling](https://huggingface.co/datasets/Tuguberk/turkish-hermes-function-calling) Hermes function calling verisetining Türkçe çevirisi
@@ -138,13 +138,13 @@ Bu reponun amacı, Türkçe yapay zeka modelleri, veri setleri ve makaleler hakk
 9. [boun-tabilab's Tabilab Collection](https://huggingface.co/collections/boun-tabilab/tabibench) Klasik NLP problemleri için oluşturulmuş bir koleksiyon (NER, özetleme, sınıflandırma, etc.)
 10. [AIM-Intelligence/XL-SafetyBench](https://huggingface.co/datasets/AIM-Intelligence/XL-SafetyBench) Jailbreak ve kültürel hassasiyeti ölçen kıyaslama veri seti
 
-#### Visual and Text
+#### Görsel ve Metinlerden oluşanlar
 1. [CohereLabs/m-WildVision](https://huggingface.co/datasets/CohereLabs/m-WildVision)
 2. [CohereLabs/AyaVisionBench](https://huggingface.co/datasets/CohereLabs/AyaVisionBench)
 3. [kesimeg/MMStar_tr](https://huggingface.co/datasets/kesimeg/MMStar_tr)
 4. [metu-yks/yksbench](https://huggingface.co/datasets/metu-yks/yksbench) Üniversite giriş sınavından oluşturulmuş bir görsel veriseti. Sorular matematik, geometri, fizik, kimya, biyoloji ve coğrafya gibi alanları kapsamakta
 5. [ytu-ce-cosmos/tubitak-science-olympiad-tr](https://huggingface.co/datasets/ytu-ce-cosmos/tubitak-science-olympiad-tr) TÜBITAK Bilim Olimpiyatları sorularından oluşuyor.Görseller soruların ekran görüntüleri 
-
+6. [Berkesule/Turkish-Visual-Reasoning-Dataset](https://huggingface.co/datasets/Berkesule/Turkish-Visual-Reasoning-Dataset) Soyut düşünmeyi ölçen görsel soru cevap veriseti
 
 ### Makaleler
 1. [Cosmos-LLaVA: Chatting with the Visual](https://arxiv.org/pdf/2412.02760)

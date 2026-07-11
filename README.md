@@ -96,7 +96,7 @@ Turkish Tree of Thoughts (ToT) dataset
 16. [TURSpider](https://github.com/alibugra/TURSpider) Text-to-SQL dataset
 17. [vngrs-ai/vngrs-web-corpus](https://huggingface.co/datasets/vngrs-ai/vngrs-web-corpus) Pretraining data which is a collection of different datasets crawled from the internet
 18. [HuggingFaceFW/finetranslations](https://huggingface.co/datasets/HuggingFaceFW/finetranslations) Has 58 Million Turkish-English text pairs for translation. Translations were generated with Gemma3-27B (From original Turkish dataset to English)
-19. [ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0](https://huggingface.co/datasets/ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0) Pretraining data which is a collection of different datasets crawled from the internet
+19. [ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0](https://huggingface.co/datasets/ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0) Pretraining data crawled from the internet
 20. [alibayram/diyalog-dataset](https://huggingface.co/datasets/alibayram/diyalog-dataset) Multi turn conversation data
 21. [BTX24/turkish-privacy-pii-ner](https://huggingface.co/datasets/BTX24/turkish-privacy-pii-ner) Synthetic PII NER dataset
 22. [Tuguberk/turkish-hermes-function-calling](https://huggingface.co/datasets/Tuguberk/turkish-hermes-function-calling) Turkish translation of Hermes function calling dataset
@@ -145,8 +145,9 @@ Turkish Tree of Thoughts (ToT) dataset
 2. [CohereLabs/AyaVisionBench](https://huggingface.co/datasets/CohereLabs/AyaVisionBench)
 3. [kesimeg/MMStar_tr](https://huggingface.co/datasets/kesimeg/MMStar_tr)
 4. [metu-yks/yksbench](https://huggingface.co/datasets/metu-yks/yksbench) A visual benchmark based on university entrance exam. Questions include  visuals related to mathematics, geometry, physics, chemistry, biology, and geography
-5. [ytu-ce-cosmos/tubitak-science-olympiad-tr](https://huggingface.co/datasets/ytu-ce-cosmos/tubitak-science-olympiad-tr) A visual benchmar based on TUBITAK Science Olympiad questions. Images are screenshots of questions. 
-
+5. [ytu-ce-cosmos/tubitak-science-olympiad-tr](https://huggingface.co/datasets/ytu-ce-cosmos/tubitak-science-olympiad-tr) A visual benchmark based on TUBITAK Science Olympiad questions. Images are screenshots of questions. 
+6. [Berkesule/Turkish-Visual-Reasoning-Dataset](https://huggingface.co/datasets/Berkesule/Turkish-Visual-Reasoning-Dataset) Visual question answering benchmark evaluating abstract reasoning
+ 
 
 ### Papers
 1. [Cosmos-LLaVA: Chatting with the Visual](https://arxiv.org/pdf/2412.02760)
