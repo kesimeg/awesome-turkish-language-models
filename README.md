@@ -49,6 +49,8 @@ The purpose of this repo to share and spread the information of Turkish AI model
 
 #### VLMs
 1. [ytu-ce-cosmos/Turkish-LLaVA](https://huggingface.co/ytu-ce-cosmos/Turkish-LLaVA-v0.1)
+2. [Trendyol/Trendyol-Vision-Flash](https://huggingface.co/Trendyol/Trendyol-Vision-Flash) Trendyol's e-commerce focused VLM (small version)
+3. [Trendyol/Trendyol-Vision-Master](https://huggingface.co/Trendyol/Trendyol-Vision-Master) Trendyol's e-commerce focused VLM (large version)
 
 #### NLP
 1. [Trendyol/tybert](https://huggingface.co/Trendyol/tybert)
@@ -66,6 +68,7 @@ The purpose of this repo to share and spread the information of Turkish AI model
 13. [Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0](https://huggingface.co/Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0) Turkish and multilingual embeddings
 14. [artiwise-ai/modernbert-base-tr-uncased](https://huggingface.co/artiwise-ai/modernbert-base-tr-uncased)
 15. [ytu-ce-cosmos/turkish-e5-large](https://huggingface.co/ytu-ce-cosmos/turkish-e5-large) Turkish retrieval model
+16. [ModernBERT-TR Collection](https://huggingface.co/collections/ytu-ce-cosmos/modernbert-tr) ModerBERT model for Turkish. This is a collection of many models. It includes ModernBERT, reranker, PII, guardrail and various other models.
 
 #### Speech models
 1. [Trendyol/Trendyol-TTS](https://huggingface.co/Trendyol/Trendyol-TTS) Turkish Text-to-Speech model
@@ -101,6 +104,8 @@ Turkish Tree of Thoughts (ToT) dataset
 21. [BTX24/turkish-privacy-pii-ner](https://huggingface.co/datasets/BTX24/turkish-privacy-pii-ner) Synthetic PII NER dataset
 22. [Tuguberk/turkish-hermes-function-calling](https://huggingface.co/datasets/Tuguberk/turkish-hermes-function-calling) Turkish translation of Hermes function calling dataset
 23. [OnerAYTAS/Turkish_prompt_injection_jailbreak_dataset]( https://huggingface.co/datasets/OnerAYTAS/Turkish_prompt_injection_jailbreak_dataset) Turkish jailbreak categorization dataset
+24. [berhaan/Turkish-CodeAlpaca-20k](https://huggingface.co/datasets/berhaan/Turkish-CodeAlpaca-20k) An instruction following dataset for coding.
+25. [OnerAYTAS/Turkish_self_harm_dataset](https://huggingface.co/datasets/OnerAYTAS/Turkish_self_harm_dataset) The dataset contains texts with the topic of self harm. It was created by translating various English datasets into Turkish
 
 #### Text & Images/Videos
 1. [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)

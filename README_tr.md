@@ -48,6 +48,8 @@ Bu reponun amacı, Türkçe yapay zeka modelleri, veri setleri ve makaleler hakk
 
 #### VLMs
 1. [ytu-ce-cosmos/Turkish-LLaVA](https://huggingface.co/ytu-ce-cosmos/Turkish-LLaVA-v0.1)
+2. [Trendyol/Trendyol-Vision-Flash](https://huggingface.co/Trendyol/Trendyol-Vision-Flash) Trendyol'un e-ticaret odaklı VLM modeli (küçük versiyon)
+3. [Trendyol/Trendyol-Vision-Master](https://huggingface.co/Trendyol/Trendyol-Vision-Master) Trendyol'un e-ticaret odaklı VLM modeli (büyük versiyon)
 
 #### NLP
 1. [Trendyol/tybert](https://huggingface.co/Trendyol/tybert)
@@ -65,6 +67,7 @@ Bu reponun amacı, Türkçe yapay zeka modelleri, veri setleri ve makaleler hakk
 13. [Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0](https://huggingface.co/Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0) Türkçe ve çok dilli embedding modeli
 14. [artiwise-ai/modernbert-base-tr-uncased](https://huggingface.co/artiwise-ai/modernbert-base-tr-uncased)
 15. [ytu-ce-cosmos/turkish-e5-large](https://huggingface.co/ytu-ce-cosmos/turkish-e5-large) Türkçe retrieval modeli
+16. [ModernBERT-TR Collection](https://huggingface.co/collections/ytu-ce-cosmos/modernbert-tr) Türkçe için bir ModerBERT modeli. Bu çeşitli farklı modellerden oluşan bir koleksiyondur.  İçerisinde ModernBERT, reranker, PII, guardrail ve farklı pek çok modeli bulundurmaktadır.
 
 #### Ses modelleri
 1. [Trendyol/Trendyol-TTS](https://huggingface.co/Trendyol/Trendyol-TTS) Türkçe metinden ses üreten model
@@ -99,6 +102,8 @@ Bu reponun amacı, Türkçe yapay zeka modelleri, veri setleri ve makaleler hakk
 21. [BTX24/turkish-privacy-pii-ner](https://huggingface.co/datasets/BTX24/turkish-privacy-pii-ner) Sentetik kişisel veriler için  varlık tanıma veri seti
 22. [Tuguberk/turkish-hermes-function-calling](https://huggingface.co/datasets/Tuguberk/turkish-hermes-function-calling) Hermes function calling verisetining Türkçe çevirisi
 23. [OnerAYTAS/Turkish_prompt_injection_jailbreak_dataset]( https://huggingface.co/datasets/OnerAYTAS/Turkish_prompt_injection_jailbreak_dataset) Türkçe jailbreak kategorizasyon veriseti
+24. [berhaan/Turkish-CodeAlpaca-20k](https://huggingface.co/datasets/berhaan/Turkish-CodeAlpaca-20k) Kodlama üzerine bir instruction following veriseti
+25. [OnerAYTAS/Turkish_self_harm_dataset](https://huggingface.co/datasets/OnerAYTAS/Turkish_self_harm_dataset) Kendine Zarar Verme konulu metinlerden oluşan bir veri seti. Veri seti farklı İngilizce veri setlerinin Türkçeye çevrilmesi ile oluşturulmuştur.
 
 #### Metin & Görsel/Videolar
 1. [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)
