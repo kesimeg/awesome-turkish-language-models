@@ -144,6 +144,7 @@ Turkish Tree of Thoughts (ToT) dataset
 8. [CohereLabsCommunity/multilingual-reward-bench](https://huggingface.co/datasets/CohereLabsCommunity/multilingual-reward-bench) Reward benchmark (preference prediction)
 9. [boun-tabilab's Tabilab Collection](https://huggingface.co/collections/boun-tabilab/tabibench) A collection of benchmarks for classical NLP tasks (NER, summarization, classification, etc.)
 10. [AIM-Intelligence/XL-SafetyBench](https://huggingface.co/datasets/AIM-Intelligence/XL-SafetyBench) Jailbreak and cultural sensitivity benchmark
+11. [FoodSecuriry/turkish-ev-charging-intents](https://huggingface.co/datasets/FoodSecuriry/turkish-ev-charging-intents) A compact Turkish intent-classification benchmark with 192 synthetic-editorial EV charging queries across eight balanced classes.
 
 #### Visual and Text
 1. [CohereLabs/m-WildVision](https://huggingface.co/datasets/CohereLabs/m-WildVision)
