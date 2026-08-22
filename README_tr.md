@@ -142,6 +142,7 @@ Bu reponun amacı, Türkçe yapay zeka modelleri, veri setleri ve makaleler hakk
 8. [CohereLabsCommunity/multilingual-reward-bench](https://huggingface.co/datasets/CohereLabsCommunity/multilingual-reward-bench) Reward kıyaslama veriseti (terchih/beğeni tahmini)
 9. [boun-tabilab's Tabilab Collection](https://huggingface.co/collections/boun-tabilab/tabibench) Klasik NLP problemleri için oluşturulmuş bir koleksiyon (NER, özetleme, sınıflandırma, etc.)
 10. [AIM-Intelligence/XL-SafetyBench](https://huggingface.co/datasets/AIM-Intelligence/XL-SafetyBench) Jailbreak ve kültürel hassasiyeti ölçen kıyaslama veri seti
+11. [FoodSecuriry/turkish-ev-charging-intents](https://huggingface.co/datasets/FoodSecuriry/turkish-ev-charging-intents) Sekiz dengeli sınıfta, sentetik-editoryal olarak hazırlanmış 192 elektrikli araç şarj sorgusundan oluşan kompakt Türkçe niyet sınıflandırma kıyaslama veriseti.
 
 #### Görsel ve Metinlerden oluşanlar
 1. [CohereLabs/m-WildVision](https://huggingface.co/datasets/CohereLabs/m-WildVision)
