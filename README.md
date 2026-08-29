@@ -177,8 +177,8 @@ Turkish Tree of Thoughts (ToT) dataset
 ### MCPs
 1. [THY-MCP](https://mcp.turkishtechlab.com/)
 2. [borsa-mcp](https://github.com/saidsurucu/borsa-mcp) MCP Server for Istanbul Stock Exchange and Turkish Investment Fund Data 
-3. [yargi-cmp](https://github.com/saidsurucu/yargi-mcp) MCP Server For Turkish Legal Databases 
-4. [mezuat-mcp](https://github.com/saidsurucu/mevzuat-mcp) MCP Server for Searching Turkish Legislation 
+3. [yargi-mcp](https://github.com/saidsurucu/yargi-mcp) MCP Server For Turkish Legal Databases 
+4. [mevzuat-mcp](https://github.com/saidsurucu/mevzuat-mcp) MCP Server for Searching Turkish Legislation 
 5. [yoktez-mcp](https://github.com/saidsurucu/yoktez-mcp) MCP Server for Turkish Thesis Database 
 6. [yokatlas-mcp](https://github.com/saidsurucu/yokatlas-mcp) MCP Server for YOK Atlas
 

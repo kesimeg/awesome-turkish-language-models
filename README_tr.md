@@ -174,8 +174,8 @@ Bu reponun amacı, Türkçe yapay zeka modelleri, veri setleri ve makaleler hakk
 ### MCPler
 1. [THY-MCP](https://mcp.turkishtechlab.com/)
 2. [borsa-mcp](https://github.com/saidsurucu/borsa-mcp) Türk borsaları için MCP Server 
-3. [yargi-cmp](https://github.com/saidsurucu/yargi-mcp) Türk hukuk kaynaklarına erişim için MCP Server 
-4. [mezuat-mcp](https://github.com/saidsurucu/mevzuat-mcp) Adalet Bakanlığı'na ait Mevzuat Bilgi Sistemine erişim için bir MCP Server
+3. [yargi-mcp](https://github.com/saidsurucu/yargi-mcp) Türk hukuk kaynaklarına erişim için MCP Server 
+4. [mevzuat-mcp](https://github.com/saidsurucu/mevzuat-mcp) Adalet Bakanlığı'na ait Mevzuat Bilgi Sistemine erişim için bir MCP Server
 5. [yoktez-mcp](https://github.com/saidsurucu/yoktez-mcp) YÖKTEZ'e erişim için MCP Server 
 6. [yokatlas-mcp](https://github.com/saidsurucu/yokatlas-mcp) YOK Atlas'a erişim için MCP Server
 
