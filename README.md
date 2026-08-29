@@ -2,7 +2,7 @@
 ![Awesome turkish language models image](https://github.com/user-attachments/assets/12b48069-b177-4278-b225-f29b503f60b0)
 A curated list of Turkish AI models, datasets, papers
 
-The purpose of this repo to share and spread the information of Turkish AI models, datasets and papers. The amount of these Turkish resources are low and spread across the web. This repo aims to bring a curated selection of these resources together. This is not a list of all Turkish NLP/LLM models or datasets but a selection. So not all BERT or LLaMA based models are gonna make it here. The same applies to low quality Google translate translations of datasets. We aim each entry to have some kind of unique element to its own. This can be model performance, uniqueness in the task, highlighting the groups/companies (not everyone share their stuff so why not appreciate it!) etc. If you want to add anything you are welcomed :smirk: , please check out the contributing section.
+The purpose of this repo is to share and spread the information of Turkish AI models, datasets and papers. The amount of these Turkish resources are low and spread across the web. This repo aims to bring a curated selection of these resources together. This is not a list of all Turkish NLP/LLM models or datasets but a selection. So not all BERT or LLaMA based models are gonna make it here. The same applies to low quality Google translate translations of datasets. We aim each entry to have some kind of unique element to its own. This can be model performance, uniqueness in the task, highlighting the groups/companies (not everyone share their stuff so why not appreciate it!) etc. If you want to add anything you are welcome :smirk: , please check out the contributing section.
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@ The purpose of this repo to share and spread the information of Turkish AI model
 10. [ytu-ce-cosmos/Turkish-Gemma-9b-T1](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-9b-T1)
 11. [vngrs-ai/Kumru-2B](https://huggingface.co/vngrs-ai/Kumru-2B) Kumru model has the architecture of Mistral. Its a model trained from [scratch](https://medium.com/vngrs/kumru-llm-34d1628cfd93) (not a finetune).
 12. [Trendyol/Trendyol-LLM-Asure-12B](https://huggingface.co/Trendyol/Trendyol-LLM-Asure-12B) Mutimodal model
-13. [ytu-ce-cosmos/Turkish-Gemma-4b-T1-Scout](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-4b-T1-Scout) Trained fpr reasoning and web-search tool calling
+13. [ytu-ce-cosmos/Turkish-Gemma-4b-T1-Scout](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-4b-T1-Scout) Trained for reasoning and web-search tool calling
 
 #### VLMs
 1. [ytu-ce-cosmos/Turkish-LLaVA](https://huggingface.co/ytu-ce-cosmos/Turkish-LLaVA-v0.1)
@@ -68,7 +68,7 @@ The purpose of this repo to share and spread the information of Turkish AI model
 13. [Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0](https://huggingface.co/Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0) Turkish and multilingual embeddings
 14. [artiwise-ai/modernbert-base-tr-uncased](https://huggingface.co/artiwise-ai/modernbert-base-tr-uncased)
 15. [ytu-ce-cosmos/turkish-e5-large](https://huggingface.co/ytu-ce-cosmos/turkish-e5-large) Turkish retrieval model
-16. [ModernBERT-TR Collection](https://huggingface.co/collections/ytu-ce-cosmos/modernbert-tr) ModerBERT model for Turkish. This is a collection of many models. It includes ModernBERT, reranker, PII, guardrail and various other models.
+16. [ModernBERT-TR Collection](https://huggingface.co/collections/ytu-ce-cosmos/modernbert-tr) ModernBERT model for Turkish. This is a collection of many models. It includes ModernBERT, reranker, PII, guardrail and various other models.
 
 #### Speech models
 1. [Trendyol/Trendyol-TTS](https://huggingface.co/Trendyol/Trendyol-TTS) Turkish Text-to-Speech model
@@ -113,7 +113,7 @@ Turkish Tree of Thoughts (ToT) dataset
 4. [99eren99/LLaVA1.5-Data-Turkish](https://huggingface.co/datasets/99eren99/LLaVA1.5-Data-Turkish)
 5. [TasvirEt](https://www.kaggle.com/datasets/begum302553/tasviret-flickr8k-turkish)
 6. [nezahatkorkmaz/turkish-medical-vqa-evaluated](https://huggingface.co/datasets/nezahatkorkmaz/turkish-medical-vqa-evaluated) Medical image question and answer dataset
-7. [nezahatkorkmaz/unsloth-pmc-vqa-tr](https://huggingface.co/datasets/nezahatkorkmaz/unsloth-pmc-vqa-tr) Medical image question answering dataset. Translted from PMC-VQA dataset. Reiquires access to images from original dataset.
+7. [nezahatkorkmaz/unsloth-pmc-vqa-tr](https://huggingface.co/datasets/nezahatkorkmaz/unsloth-pmc-vqa-tr) Medical image question answering dataset. Translated from PMC-VQA dataset. Requires access to images from original dataset.
 8. [BosphorusSign22k](https://ogulcanozdemir.github.io/bosphorussign22k/) Sign recognition
 9. [FinePDFs](https://huggingface.co/datasets/HuggingFaceFW/finepdfs) Has 1.7 million Turkish entries. A PDF dataset that can be great for pretraining, RAG benchmark curation.
 10. [ituperceptron/image-captioning-turkish](https://huggingface.co/datasets/ituperceptron/image-captioning-turkish) Image captioning dataset. 200k long, 100k short captions
