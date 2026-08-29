@@ -91,19 +91,18 @@ Bu reponun amacı, Türkçe yapay zeka modelleri, veri setleri ve makaleler hakk
 10. [HPLT/HPLT2.0_cleaned](https://huggingface.co/datasets/HPLT/HPLT2.0_cleaned/viewer/tur_Latn) İnternetten toplanmış veriler
 11. [unimelb-nlp/wikiann](https://huggingface.co/datasets/unimelb-nlp/wikiann) Varlık ismi tanıma
 12. [TUR2SQL](https://github.com/alibugra/TUR2SQL) Yazıdan SQL sorgularına çeviri veriseti
-13. [dolphin-r1-turkish](https://huggingface.co/datasets/WiroAI/dolphin-r1-turkish) Akıl yürütme veriseti
-14. [emre/ct_tree_of_thought_turkish](https://huggingface.co/datasets/emre/ct_tree_of_thought_turkish) Türkçe Tree of Thoughts (ToT) veriseti 
-15. [HuggingFaceFW/fineweb-2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) ~95 milyon Türkçe metin var
-16. [TURSpider](https://github.com/alibugra/TURSpider) Metinden SQL sorgulamaya çeviri veriseti
-17. [vngrs-ai/vngrs-web-corpus](https://huggingface.co/datasets/vngrs-ai/vngrs-web-corpus) İnternetten toplanmış farklı farklı verisetlerinden oluşturulmuş bir pretraining veriseti
-18. [HuggingFaceFW/finetranslations](https://huggingface.co/datasets/HuggingFaceFW/finetranslations) Çeviri için 58 milyon Türkçe-İngilizce metin bulunmaktadır. Çeviriler, Gemma3-27B kullanılarak oluşturulmuş (orijinal Türkçe veri kümesinden İngilizceye çevrilmiş)
-19. [ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0](https://huggingface.co/datasets/ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0) İnternetten toplanan pretraining verileri
-20. [alibayram/diyalog-dataset](https://huggingface.co/datasets/alibayram/diyalog-dataset) Multi turn konuşma veri seti
-21. [BTX24/turkish-privacy-pii-ner](https://huggingface.co/datasets/BTX24/turkish-privacy-pii-ner) Sentetik kişisel veriler için  varlık tanıma veri seti
-22. [Tuguberk/turkish-hermes-function-calling](https://huggingface.co/datasets/Tuguberk/turkish-hermes-function-calling) Hermes function calling verisetining Türkçe çevirisi
-23. [OnerAYTAS/Turkish_prompt_injection_jailbreak_dataset]( https://huggingface.co/datasets/OnerAYTAS/Turkish_prompt_injection_jailbreak_dataset) Türkçe jailbreak kategorizasyon veriseti
-24. [berhaan/Turkish-CodeAlpaca-20k](https://huggingface.co/datasets/berhaan/Turkish-CodeAlpaca-20k) Kodlama üzerine bir instruction following veriseti
-25. [OnerAYTAS/Turkish_self_harm_dataset](https://huggingface.co/datasets/OnerAYTAS/Turkish_self_harm_dataset) Kendine Zarar Verme konulu metinlerden oluşan bir veri seti. Veri seti farklı İngilizce veri setlerinin Türkçeye çevrilmesi ile oluşturulmuştur.
+13. [emre/ct_tree_of_thought_turkish](https://huggingface.co/datasets/emre/ct_tree_of_thought_turkish) Türkçe Tree of Thoughts (ToT) veriseti 
+14. [HuggingFaceFW/fineweb-2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) ~95 milyon Türkçe metin var
+15. [TURSpider](https://github.com/alibugra/TURSpider) Metinden SQL sorgulamaya çeviri veriseti
+16. [vngrs-ai/vngrs-web-corpus](https://huggingface.co/datasets/vngrs-ai/vngrs-web-corpus) İnternetten toplanmış farklı farklı verisetlerinden oluşturulmuş bir pretraining veriseti
+17. [HuggingFaceFW/finetranslations](https://huggingface.co/datasets/HuggingFaceFW/finetranslations) Çeviri için 58 milyon Türkçe-İngilizce metin bulunmaktadır. Çeviriler, Gemma3-27B kullanılarak oluşturulmuş (orijinal Türkçe veri kümesinden İngilizceye çevrilmiş)
+18. [ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0](https://huggingface.co/datasets/ytu-ce-cosmos/Cosmos-Turkish-Corpus-v1.0) İnternetten toplanan pretraining verileri
+19. [alibayram/diyalog-dataset](https://huggingface.co/datasets/alibayram/diyalog-dataset) Multi turn konuşma veri seti
+20. [BTX24/turkish-privacy-pii-ner](https://huggingface.co/datasets/BTX24/turkish-privacy-pii-ner) Sentetik kişisel veriler için  varlık tanıma veri seti
+21. [Tuguberk/turkish-hermes-function-calling](https://huggingface.co/datasets/Tuguberk/turkish-hermes-function-calling) Hermes function calling verisetining Türkçe çevirisi
+22. [OnerAYTAS/Turkish_prompt_injection_jailbreak_dataset]( https://huggingface.co/datasets/OnerAYTAS/Turkish_prompt_injection_jailbreak_dataset) Türkçe jailbreak kategorizasyon veriseti
+23. [berhaan/Turkish-CodeAlpaca-20k](https://huggingface.co/datasets/berhaan/Turkish-CodeAlpaca-20k) Kodlama üzerine bir instruction following veriseti
+24. [OnerAYTAS/Turkish_self_harm_dataset](https://huggingface.co/datasets/OnerAYTAS/Turkish_self_harm_dataset) Kendine Zarar Verme konulu metinlerden oluşan bir veri seti. Veri seti farklı İngilizce veri setlerinin Türkçeye çevrilmesi ile oluşturulmuştur.
 
 #### Metin & Görsel/Videolar
 1. [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)
