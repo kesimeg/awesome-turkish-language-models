@@ -46,6 +46,7 @@ The purpose of this repo is to share and spread the information of Turkish AI mo
 - [vngrs-ai/Kumru-2B](https://huggingface.co/vngrs-ai/Kumru-2B) Kumru model has the architecture of Mistral. Its a model trained from [scratch](https://medium.com/vngrs/kumru-llm-34d1628cfd93) (not a finetune).
 - [Trendyol/Trendyol-LLM-Asure-12B](https://huggingface.co/Trendyol/Trendyol-LLM-Asure-12B) Mutimodal model
 - [ytu-ce-cosmos/Turkish-Gemma-4b-T1-Scout](https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-4b-T1-Scout) Trained for reasoning and web-search tool calling
+- [runelab-ai/Hati-Glint-SQL-9B-v1](https://huggingface.co/runelab-ai/Hati-Glint-SQL-9B-v1) Turkish/English text-to-SQL model, Qwen3.5-9B fine-tune, Apache-2.0, by [RuneLab](https://runelab.ai/models/hati-glint-sql).
 
 #### VLMs
 - [ytu-ce-cosmos/Turkish-LLaVA](https://huggingface.co/ytu-ce-cosmos/Turkish-LLaVA-v0.1)
@@ -69,6 +70,8 @@ The purpose of this repo is to share and spread the information of Turkish AI mo
 - [artiwise-ai/modernbert-base-tr-uncased](https://huggingface.co/artiwise-ai/modernbert-base-tr-uncased)
 - [ytu-ce-cosmos/turkish-e5-large](https://huggingface.co/ytu-ce-cosmos/turkish-e5-large) Turkish retrieval model
 - [ModernBERT-TR Collection](https://huggingface.co/collections/ytu-ce-cosmos/modernbert-tr) ModernBERT model for Turkish. This is a collection of many models. It includes ModernBERT, reranker, PII, guardrail and various other models.
+- [runelab-ai/Vor-LateEmbed-TR-0.6B-v1](https://huggingface.co/runelab-ai/Vor-LateEmbed-TR-0.6B-v1) ColBERT-style (late-interaction) Turkish retrieval model by [RuneLab](https://runelab.ai/models/vor-lateembed-tr).
+- [runelab-ai/kenning-turkish-legal-v1](https://huggingface.co/runelab-ai/kenning-turkish-legal-v1) Turkish legal-domain embedding model (~271M, EmbeddingGemma 2 base, Apache-2.0) by [RuneLab](https://runelab.ai/models/kenning-turkish-legal).
 
 #### Speech models
 - [Trendyol/Trendyol-TTS](https://huggingface.co/Trendyol/Trendyol-TTS) Turkish Text-to-Speech model
