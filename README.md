@@ -86,6 +86,7 @@ The purpose of this repo is to share and spread the information of Turkish AI mo
 - [merve/turkish_instructions](https://huggingface.co/datasets/merve/turkish_instructions) Instruction tuning dataset
 - [BrewInteractive/alpaca-tr](https://huggingface.co/datasets/BrewInteractive/alpaca-tr/viewer/default/train?p=2&views%5B%5D=train) Instruction tuning dataset
 - [Metin/WikiRAG-TR](https://huggingface.co/datasets/Metin/WikiRAG-TR)
+- [Aykanugur157/tr-wiki-qa](https://huggingface.co/datasets/Aykanugur157/tr-wiki-qa) Short-answer QA over Turkish Wikipedia passages.Each row links to a pinned Wikipedia revision; splits are article-disjoint.
 - [MBZUAI/Bactrian-X](https://huggingface.co/datasets/MBZUAI/Bactrian-X/viewer/tr?views%5B%5D=tr)
 - [Helsinki-NLP group](https://huggingface.co/Helsinki-NLP) Lots of translation models datasets for turkish
 - [turkish-nlp-suite/turkish-wikiNER](https://huggingface.co/datasets/turkish-nlp-suite/turkish-wikiNER)
