@@ -52,6 +52,7 @@ The purpose of this repo is to share and spread the information of Turkish AI mo
 - [ytu-ce-cosmos/Turkish-LLaVA](https://huggingface.co/ytu-ce-cosmos/Turkish-LLaVA-v0.1)
 - [Trendyol/Trendyol-Vision-Flash](https://huggingface.co/Trendyol/Trendyol-Vision-Flash) Trendyol's e-commerce focused VLM (small version)
 - [Trendyol/Trendyol-Vision-Master](https://huggingface.co/Trendyol/Trendyol-Vision-Master) Trendyol's e-commerce focused VLM (large version)
+- [moganai/MoganOCR-TR](https://huggingface.co/moganai/MoganOCR-TR) Turkish OCR model
 
 #### NLP
 - [Trendyol/tybert](https://huggingface.co/Trendyol/tybert)
@@ -109,6 +110,7 @@ Turkish Tree of Thoughts (ToT) dataset
 - [OnerAYTAS/Turkish_prompt_injection_jailbreak_dataset]( https://huggingface.co/datasets/OnerAYTAS/Turkish_prompt_injection_jailbreak_dataset) Turkish jailbreak categorization dataset
 - [berhaan/Turkish-CodeAlpaca-20k](https://huggingface.co/datasets/berhaan/Turkish-CodeAlpaca-20k) An instruction following dataset for coding.
 - [OnerAYTAS/Turkish_self_harm_dataset](https://huggingface.co/datasets/OnerAYTAS/Turkish_self_harm_dataset) The dataset contains texts with the topic of self harm. It was created by translating various English datasets into Turkish
+- [kesimeg/Turkish-synthetic-personas](https://huggingface.co/datasets/kesimeg/Turkish-synthetic-personas) A synthetic persona dataset. Can be used as seed data to create diverse synthetic datasets.
 
 #### Text & Images/Videos
 - [ytu-ce-cosmos/Turkish-LLaVA-Finetune](https://huggingface.co/datasets/ytu-ce-cosmos/Turkish-LLaVA-Finetune)
@@ -121,6 +123,7 @@ Turkish Tree of Thoughts (ToT) dataset
 - [BosphorusSign22k](https://ogulcanozdemir.github.io/bosphorussign22k/) Sign recognition
 - [FinePDFs](https://huggingface.co/datasets/HuggingFaceFW/finepdfs) Has 1.7 million Turkish entries. A PDF dataset that can be great for pretraining, RAG benchmark curation.
 - [ituperceptron/image-captioning-turkish](https://huggingface.co/datasets/ituperceptron/image-captioning-turkish) Image captioning dataset. 200k long, 100k short captions
+- [moganai/turkish-synthetic-documents](https://huggingface.co/datasets/moganai/turkish-synthetic-documents) Synthetically generated documents for OCR model training
 
 #### Text & Speech
 - [mozilla-foundation/common_voice_17_0](https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0) This dataset also has older versions v16,v15, etc.
@@ -155,7 +158,7 @@ Turkish Tree of Thoughts (ToT) dataset
 - [metu-yks/yksbench](https://huggingface.co/datasets/metu-yks/yksbench) A visual benchmark based on university entrance exam. Questions include  visuals related to mathematics, geometry, physics, chemistry, biology, and geography
 - [ytu-ce-cosmos/tubitak-science-olympiad-tr](https://huggingface.co/datasets/ytu-ce-cosmos/tubitak-science-olympiad-tr) A visual benchmark based on TUBITAK Science Olympiad questions. Images are screenshots of questions. 
 - [Berkesule/Turkish-Visual-Reasoning-Dataset](https://huggingface.co/datasets/Berkesule/Turkish-Visual-Reasoning-Dataset) Visual question answering benchmark evaluating abstract reasoning
- 
+- [moganai/TurkishOCR-Bench](https://huggingface.co/datasets/moganai/TurkishOCR-Bench) Turkish OCR benchmark
 
 ### Papers
 - [Cosmos-LLaVA: Chatting with the Visual](https://arxiv.org/pdf/2412.02760)
