@@ -193,6 +193,7 @@ Turkish Tree of Thoughts (ToT) dataset
 - [KUIS-AI Youtube channel](https://www.youtube.com/@kuisaicenter)
 * [TR-AI Youtube channel](https://www.youtube.com/c/T%C3%BCrkiyeYapayZeka%C4%B0nisiyatifi)
 - [Trendyol Tech Youtube channel](https://www.youtube.com/@TrendyolTech) Has videos related to their AI products and how they integrate AI
+- [Türkiye'de Yapay Zekâ Kullanımı: TÜİK Verileriyle 2026](https://yzdersleri.com/turkiye-yapay-zeka-kullanimi-istatistikleri/) Summary (in Turkish) of official TÜİK statistics on generative AI use by individuals and enterprises, with breakdowns by age, education, purpose and sector
 
 ### Miscellaneous
 - [Mukayese: Turkish NLP Strikes Back](https://mukayese.tdd.ai/#/)
