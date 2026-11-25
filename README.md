@@ -150,6 +150,7 @@ Turkish Tree of Thoughts (ToT) dataset
 - [CohereLabsCommunity/multilingual-reward-bench](https://huggingface.co/datasets/CohereLabsCommunity/multilingual-reward-bench) Reward benchmark (preference prediction)
 - [boun-tabilab's Tabilab Collection](https://huggingface.co/collections/boun-tabilab/tabibench) A collection of benchmarks for classical NLP tasks (NER, summarization, classification, etc.)
 - [AIM-Intelligence/XL-SafetyBench](https://huggingface.co/datasets/AIM-Intelligence/XL-SafetyBench) Jailbreak and cultural sensitivity benchmark
+- [OsmanCan/turkphish-v2](https://huggingface.co/datasets/OsmanCan/turkphish-v2) Turkish phishing e-mail detection benchmark with a leakage audit and an out-of-theme split. For more see the [paper](https://doi.org/10.3390/app16168274)
 
 #### Visual and Text
 - [CohereLabs/m-WildVision](https://huggingface.co/datasets/CohereLabs/m-WildVision)
