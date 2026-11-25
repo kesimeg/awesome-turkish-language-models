@@ -141,6 +141,7 @@ Bu reponun amacı, Türkçe yapay zeka modelleri, veri setleri ve makaleler hakk
 - [CohereLabsCommunity/multilingual-reward-bench](https://huggingface.co/datasets/CohereLabsCommunity/multilingual-reward-bench) Reward kıyaslama veriseti (terchih/beğeni tahmini)
 - [boun-tabilab's Tabilab Collection](https://huggingface.co/collections/boun-tabilab/tabibench) Klasik NLP problemleri için oluşturulmuş bir koleksiyon (NER, özetleme, sınıflandırma, etc.)
 - [AIM-Intelligence/XL-SafetyBench](https://huggingface.co/datasets/AIM-Intelligence/XL-SafetyBench) Jailbreak ve kültürel hassasiyeti ölçen kıyaslama veri seti
+- [OsmanCan/turkphish-v2](https://huggingface.co/datasets/OsmanCan/turkphish-v2) Veri sızıntısı denetimli ve tema dışı test bölmeli Türkçe oltalama e-posta tespiti kıyaslama veri seti. Ayrıntılar için [makale](https://doi.org/10.3390/app16168274)
 
 #### Görsel ve Metinlerden oluşanlar
 - [CohereLabs/m-WildVision](https://huggingface.co/datasets/CohereLabs/m-WildVision)
