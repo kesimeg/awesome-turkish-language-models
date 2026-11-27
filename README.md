@@ -150,6 +150,7 @@ Turkish Tree of Thoughts (ToT) dataset
 - [CohereLabsCommunity/multilingual-reward-bench](https://huggingface.co/datasets/CohereLabsCommunity/multilingual-reward-bench) Reward benchmark (preference prediction)
 - [boun-tabilab's Tabilab Collection](https://huggingface.co/collections/boun-tabilab/tabibench) A collection of benchmarks for classical NLP tasks (NER, summarization, classification, etc.)
 - [AIM-Intelligence/XL-SafetyBench](https://huggingface.co/datasets/AIM-Intelligence/XL-SafetyBench) Jailbreak and cultural sensitivity benchmark
+- [Turkish Middle School Mathematics Misconceptions Inventory](https://lemmaakademi.com/metodoloji) - 505 coded student misconception records (24 variables: topic, grade, sample size, prevalence, measurement tool, source page) extracted from 31 Turkish graduate theses and journal articles on grades 6–8 mathematics, 2006–2026. CSV, CC BY 4.0, DOI [10.5281/zenodo.22180687](https://doi.org/10.5281/zenodo.22180687).
 
 #### Visual and Text
 - [CohereLabs/m-WildVision](https://huggingface.co/datasets/CohereLabs/m-WildVision)
