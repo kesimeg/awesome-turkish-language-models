@@ -188,6 +188,8 @@ Turkish Tree of Thoughts (ToT) dataset
 - [mevzuat-mcp](https://github.com/saidsurucu/mevzuat-mcp) MCP Server for Searching Turkish Legislation 
 - [yoktez-mcp](https://github.com/saidsurucu/yoktez-mcp) MCP Server for Turkish Thesis Database 
 - [yokatlas-mcp](https://github.com/saidsurucu/yokatlas-mcp) MCP Server for YOK Atlas
+- [ihale-mcp](https://github.com/saidsurucu/ihale-mcp) MCP Server for Turkish Government Tenders
+- [literatur-mcp](https://github.com/saidsurucu/literatur-mcp) Search Turkish academic journal articles from DergiPark
 
 ### State of AI in Türkiye
 - [KUIS-AI Youtube channel](https://www.youtube.com/@kuisaicenter)
