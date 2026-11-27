@@ -180,6 +180,8 @@ Turkish Tree of Thoughts (ToT) dataset
 - [Wiktionary](https://tr.wiktionary.org/wiki/Vikis%C3%B6zl%C3%BCk:Anasayfa)
 - [Zemberek](https://github.com/ahmetaa/zemberek-nlp) Some turkish NLP tools
 - [3rt4nm4n/turkish-apis](https://github.com/3rt4nm4n/turkish-apis) A list of turkish-apis
+- [tells](https://github.com/alidoganerr/tells) Flags AI writing patterns in Turkish and English text, as a CLI, GitHub Action or Claude Code skill
+- [yapay-zeka-turkcesi](https://github.com/alidoganerr/yapay-zeka-turkcesi) A Turkish guide to common AI writing patterns, with examples
 
 ### MCPs
 - [THY-MCP](https://mcp.turkishtechlab.com/)
